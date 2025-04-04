@@ -12,7 +12,6 @@ An Android app to **track job applications** with a clean and user-friendly inte
 - **MVVM Architecture**
 - **Hilt (Dependency Injection)**
 - **Retrofit** – for network communication
-- **Room DB** – for local storage
 - **Navigation Component**
 - **Coroutines + Flow** – for async operations
 
@@ -26,12 +25,12 @@ An Android app to **track job applications** with a clean and user-friendly inte
 
 ## ✅ Features
 
-- 🔹 Add new job applications with title, description, and location
-- 🔹 Edit and update existing jobs
-- 🔹 Delete job entries
-- 🔹 View all jobs from server
-- 🔹 Full **CRUD support** (Create, Read, Update, Delete)
-- 🔹 Seamless integration of local and remote data
+🔹 Add new job applications with title, description, and location
+🔹 Edit and update existing jobs
+🔹 Delete job entries
+🔹 View all jobs from server
+🔹 Full **CRUD support** (Create, Read, Update, Delete)
+
 
 ---
 
@@ -39,7 +38,7 @@ An Android app to **track job applications** with a clean and user-friendly inte
 
 | Method | Endpoint       | Description          |
 |--------|----------------|----------------------|
-| GET    | `/jobs`       | Get all jobs         |
+| GET    | `/jobs`        | Get all jobs         |
 | POST   | `/jobs`        | Create a new job     |
 | PUT    | `/jobs/{id}`   | Update job by ID     |
 | DELETE | `/jobs/{id}`   | Delete job by ID     |

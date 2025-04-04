@@ -3,6 +3,7 @@
 An Android app to **track job applications** with a clean and user-friendly interface. Users can create, view, edit, and delete job entries efficiently.
 
 Download apk from down below
+
 [![Static Badge](https://img.shields.io/badge/Download%20apk-black?logo=Android)](https://github.com/shalenMathew/Job-Portal-App/releases)
 
 ---

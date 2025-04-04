@@ -25,11 +25,11 @@ An Android app to **track job applications** with a clean and user-friendly inte
 
 ## ✅ Features
 
-🔹 Add new job applications with title, description, and location
-🔹 Edit and update existing jobs
-🔹 Delete job entries
-🔹 View all jobs from server
-🔹 Full **CRUD support** (Create, Read, Update, Delete)
+ 🔹 Add new job applications with title, description, and location
+ 🔹 Edit and update existing jobs
+ 🔹 Delete job entries
+ 🔹 View all jobs from server
+ 🔹 Full **CRUD support** (Create, Read, Update, Delete)
 
 
 ---

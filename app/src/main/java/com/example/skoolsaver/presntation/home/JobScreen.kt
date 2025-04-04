@@ -155,7 +155,7 @@ fun JobScreen(
                 verticalArrangement = Arrangement.Center, horizontalAlignment = Alignment.CenterHorizontally) {
 
                 if(state.error == "timeout"){
-                    Text(text = "the server may be starting... pull to refresh", fontSize = 20.sp,
+                    Text(text = "Server might be starting up... pull to refresh.", fontSize = 20.sp,
                         color = Color.White, textAlign = TextAlign.Center)
                 }else{
                     Text(text = state.error, fontSize = 20.sp, color = Color.White)

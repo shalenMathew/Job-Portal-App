@@ -36,6 +36,7 @@ import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
+import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.hilt.navigation.compose.hiltViewModel
@@ -154,7 +155,8 @@ fun JobScreen(
                 verticalArrangement = Arrangement.Center, horizontalAlignment = Alignment.CenterHorizontally) {
 
                 if(state.error == "timeout"){
-                    Text(text = "pull to refresh", fontSize = 20.sp, color = Color.White)
+                    Text(text = "the server may be starting... pull to refresh", fontSize = 20.sp,
+                        color = Color.White, textAlign = TextAlign.Center)
                 }else{
                     Text(text = state.error, fontSize = 20.sp, color = Color.White)
                 }

@@ -39,7 +39,7 @@ An Android app to **track job applications** with a clean and user-friendly inte
 
 | Method | Endpoint       | Description          |
 |--------|----------------|----------------------|
-| GET    | `/jobs`        | Get all jobs         |
+| GET    | `/jobs`       | Get all jobs         |
 | POST   | `/jobs`        | Create a new job     |
 | PUT    | `/jobs/{id}`   | Update job by ID     |
 | DELETE | `/jobs/{id}`   | Delete job by ID     |
@@ -53,17 +53,3 @@ An Android app to **track job applications** with a clean and user-friendly inte
 2. Open in **Android Studio**
 3. Run the app on emulator or device
 
-### Backend
-1. Navigate to backend folder
-2. Run `npm install`
-3. Start server with `npm run dev`
-
----
-
-## 📝 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-
-Feel free to customize this if you add auth, filtering, or advanced features later!

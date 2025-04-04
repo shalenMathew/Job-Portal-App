@@ -1,15 +1,15 @@
-# 📱 Job Application Tracker App
+# Job Application Tracker App
 
 An Android app to **track job applications** with a clean and user-friendly interface. Users can create, view, edit, and delete job entries efficiently.
 
 Download apk from down below
-[![Static Badge](https://img.shields.io/badge/Download%20apk-black?logo=Android)](https://github.com/shalenMathew/Job-Portal-App/releases)
 
+[![Static Badge](https://img.shields.io/badge/Download%20apk-black?logo=Android)](https://github.com/shalenMathew/Job-Portal-App/releases)
 
 ---
 ## Pics
 
-![photo_6305354239748194623_y](https://github.com/user-attachments/assets/205e2ce8-5d37-4402-bade-f9f443775451)
+![photo_6305354239748194623_y](https://github.com/user-attachments/assets/205e2ce8-5d37-4402-bade-f9f443775451) 
 
 ---
 

@@ -3,6 +3,11 @@
 An Android app to **track job applications** with a clean and user-friendly interface. Users can create, view, edit, and delete job entries efficiently.
 
 ---
+## Pics
+
+![photo_6305354239748194623_y](https://github.com/user-attachments/assets/205e2ce8-5d37-4402-bade-f9f443775451)
+
+---
 
 ## 🔧 Tech Stack
 

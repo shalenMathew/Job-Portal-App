@@ -40,7 +40,7 @@ An Android app to **track job applications** with a clean and user-friendly inte
 
 ## 📦 Backend API Endpoints
 
-### Url - https://job-portal-api-1j1o.onrender.com/
+#### Url - https://job-portal-api-1j1o.onrender.com/
 
 | Method | Endpoint       | Description          |
 |--------|----------------|----------------------|
